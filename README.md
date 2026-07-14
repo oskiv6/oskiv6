@@ -11,10 +11,7 @@ I'm a Computer Engineering student at the Cracow University of Technology and a 
 
 ### Open Source & Public Releases
 * [**libchain**](https://github.com/oskiv6/libchain) **Experimental**:  A lightweight, portable single-header C library implementing a *chain-of-patches* text model. Engineered for safe, zero-config, and highly efficient text buffer modifications at arbitrary memory positions.
-
-### 🚀 What I'm building right now (R&D Projects)
-Even when I'm not pushing public commits, I'm building custom solutions behind the scenes to deeply understand system architecture:
-* **Quip Compiler [WIP]:** A custom, low-level programming language focused on simplicity.
+* [**The Quip programming language [WIP]**](https://github.com/oskiv6/quipc): Programming language created for versatility.
 
 ### 📫 Let's connect
 * **Email:** oskarstrzelecki52@gmail.com
